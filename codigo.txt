@@ -1,0 +1,12 @@
+algoritmo calculadora
+
+declare n1,n2 , saida: real, oper: caractere
+
+inicio
+>= <=> < n1
+//Seção de Comandos
+
+/*andsljd
+sjH*/
+escreva ("Insira o primeiro num:")//aas
+fimalgoritmo

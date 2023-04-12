@@ -1,0 +1,85 @@
+algoritmo alg pr
+
+fimalgoritmo fmalg pr
+
+inicio ini pr
+
+const const constante
+
+declare dcr pr
+
+caractere crt pr
+
+real real pr
+
+id var var
+
+: pp separador
+
+, virg separador
+
+numerico num numerico
+
+literal lit literal
+
+inicio ini pr
+
+escreva wr pr
+
+( ap delimitador
+
+) fp delimitador
+
+= rec operador
+
+se se pr
+
+entao entao pr
+
+fimse fs pr
+
+senao sn pr
+
+fimsenao fsn pr
+
+enquanto enq pr
+
+faca fc pr
+
+fimenq fe pr
+
+ate to pr
+
+fimpara fpr pr
+
+== eq comp
+
+> hq comp
+
+< lq comp
+>= heq comp
+
+<= leq comp
+
+<> dif comp
+
++ ad op
+
+- sub op
+
+/ div op
+
+* mul op
+
+// com "
+
+/* iniciocom "
+
+*/ fimcom "
+
+fimalgoritmo fal pr
+
+
+
+
+
